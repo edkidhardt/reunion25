@@ -15,4 +15,7 @@ body {
     background-size: auto 90%;
     height: 100vh;
     overflow: hidden;
+    font-family: "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
+    font-weight: 700;
+    letter-spacing: 0.05em;
 }
