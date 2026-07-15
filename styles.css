@@ -39,9 +39,7 @@ body * {
     top: 25px;
     left: 50%;
 
-    transform: translateX(-50%);
-    transform: rotate(-5deg);
-
+    transform: translateX(-50%) rotate(-5deg);
     text-align: center;
     font-size: 72px;
 }
